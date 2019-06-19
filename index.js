@@ -16,10 +16,10 @@ function add2(n) {
   // Feel free to move things around!
   
 }
-let funky="FUNKY!"
+
 var funkyFunction = function() {
   return function() {
-    return funky
+    return "FUNKY!"
   }
 }
 
